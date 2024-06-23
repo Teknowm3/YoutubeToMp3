@@ -82,3 +82,7 @@ A simple YouTube downloader that converts videos to MP3 format using `yt-dlp` an
 4. Enter the YouTube URL in the input field.
 
 5. Click the "Download and Convert" button.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
